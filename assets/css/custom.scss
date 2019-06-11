@@ -30,7 +30,7 @@ $font_open_sans:'Open Sans', sans-serif;
 
 /* --- GENERAL ---*/
 body{
-  background: $color_mid_light;
+  background: $color_delta;
   font-family: $font_open_sans;
 }
 
@@ -65,7 +65,6 @@ header{
 
   //header section with logos
   .navbar-brand-container{
-    padding: 5px auto;
 
     .container{min-height: 100px;}
 
@@ -75,6 +74,7 @@ header{
 
       img{
         width: 70px;
+		padding-right: 15px;
       }
     }
 
@@ -106,6 +106,7 @@ header{
     .navbar ul.navbar-nav{
       float: left;
       margin-top:0px;
+	    width: 100%;
 
       li{
 
