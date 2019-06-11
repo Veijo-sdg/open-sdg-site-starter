@@ -5,7 +5,8 @@
 /* --- GENERAL ---*/
 body {
   background: #000066;
-  font-family: "Open Sans", sans-serif; }
+  font-family: "Open Sans", sans-serif;
+  padding: 0 !important; }
 
 a {
   text-decoration: none; }
@@ -54,8 +55,7 @@ header {
       min-height: auto; }
     header .navbar-menu-container .navbar ul.navbar-nav {
       float: left;
-      margin-top: 0px;
-      width: 100%; }
+      margin-top: 0px; }
       header .navbar-menu-container .navbar ul.navbar-nav li a {
         padding: 13px;
         margin: 2px 8px;
@@ -67,6 +67,12 @@ header {
           border-bottom: none; }
       header .navbar-menu-container .navbar ul.navbar-nav li.contrast {
         display: none; }
+  @media screen and (max-width: 768px) {
+    header .navbar-nav {
+      width: 100%; }
+    header #main-nav > .navbar-search-container {
+      padding-top: 0;
+      width: 100% !important; } }
   header .navbar-search-container {
     margin: 0;
     min-height: auto;
