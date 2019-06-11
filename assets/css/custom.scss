@@ -32,6 +32,7 @@ $font_open_sans:'Open Sans', sans-serif;
 body{
   background: $color_delta;
   font-family: $font_open_sans;
+  padding: 0 !important;
 }
 
 a{
@@ -106,7 +107,7 @@ header{
     .navbar ul.navbar-nav{
       float: left;
       margin-top:0px;
-	    width: 100%;
+	   // width: 100%;
 
       li{
 
@@ -134,6 +135,17 @@ header{
     }
 
   }//.navbar-menu-container
+  @media screen and (max-width: 768px){
+    .navbar-nav {
+      width: 100%;
+    }
+
+    #main-nav > .navbar-search-container  {
+     padding-top: 0;
+      width: 100% !important;
+  }
+
+  }
 
 
   //search in navbar. This search requires navbar class
@@ -148,6 +160,7 @@ header{
     .navbar-search-container #search {
        margin-top: 0;
     }
+    
   }
 
 }//header
