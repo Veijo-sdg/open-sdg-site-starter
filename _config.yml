@@ -97,6 +97,7 @@ menu:
 # non-global metadata tab.
 #non_global_metadata: indicator.national_metadata
 non_global_metadata: Metadata
+download_chart: 
 
 
 # The list of languages that are translated. The first one is the default.

@@ -7,7 +7,7 @@ download_headline: Download Headline CSV
 download_headline_title: Download headline data as CSV
 download_source: Download Source CSV
 download_source_title: Download source data as CSV
-download_chart:
+download_chart: 
 download_table: Download Table CSV
 download_csv: Download CSV
 download_csv_title: Download as CSV
