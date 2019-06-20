@@ -34,9 +34,6 @@ body{
   font-family: $font_open_sans;
   padding: 0 !important;
 }
-btn-source-download{
-  display: none;
-}
 
 a{
   text-decoration: none;
@@ -44,7 +41,7 @@ a{
 
 .content-container{
   width: 100%;
-  padding: 20px 0;
+  padding: 0px 0;
 }
 .center{
   text-align: center;
