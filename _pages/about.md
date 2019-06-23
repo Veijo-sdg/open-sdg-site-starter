@@ -13,10 +13,14 @@ An Inter-Agency Expert Group on SDGs Indicators (IEAG-SDGs) agreed upon the glob
 
 The IAEG-SDGs further, classifies the indicators into three tiers by their level of methodological development and the availability of data at the global level as follows:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Tier 1:** Indicator is conceptually clear, has an internationally established methodology and standards are available, and data are regularly produced by countries for at least 50 % of countries and of the population in every region where the indicator is relevant.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Tier 2:** Indicator is conceptually clear, has an internationally established methodology and standards are available, but data are not regularly produced by countries.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - **Tier 3:** No internationally established methodology or standards are yet available for the indicator, but methodology/standards are being (or will be) developed or tested.
+- **Tier 1:** Indicator is conceptually clear, has an internationally established methodology and standards are available, and data are regularly produced by countries for at least 50 % of countries and of the population in every region where the indicator is relevant.
+- **Tier 2:** Indicator is conceptually clear, has an internationally established methodology and standards are available, but data are not regularly produced by countries.
+- **Tier 3:** No internationally established methodology or standards are yet available for the indicator, but methodology/standards are being (or will be) developed or tested.
 
 #### SDGs in Namibia 
 
 Namibia recognizes the importance of the Sustainable Development Goals, as reflected in the contribution made by the country in the formulation processes, particularly the intra-Africa regional processes that culminated in a common negotiating instrument called the Common African Position (CAP) on the Post-2015 Development Agenda. Namibia served as a member of the High-Level Committee (HLC) representing the African sub-region. The country presented its first Voluntary National Review (VNR) on the progress of the SDGs at the High-Level Political Forum (HLPF) at the United Nations in New York in July 2018. The HLPF was briefed on how the country is adopting the global Agenda 2030 and aligning it to its 5 years National Development Plan (NDP), corresponding accelerating tool, and Harambee Prosperity Plan (HPP).  NDP5 was launched a year after the adoption of the SDGs to ensure that national processes benefit from the global discussions on the new development agenda. Furthermore, general trends in various development aspects in the country have been displayed. The coordination of the SDGs implementation is carried out within the framework of the NDP5 pre-existing three-level mechanism, namely:
+
+- Development Partners Forum at the highest level to provide coordination oversight; 
+- a multi-stakeholder National Steering Committee composed of senior officials from government and development partners at implementation level to provide tracking of implementation; 
+- and coordination of all developments pertaining to SDGs, through the NDP5 vehicle, which rests with the National Planning Commission (NPC) as the Secretariat (National Planning Commission Namibia, 2018). 
