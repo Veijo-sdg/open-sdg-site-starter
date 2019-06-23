@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Sustainable Development Goals
 permalink: /about/
 layout: page
 ---
