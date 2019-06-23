@@ -7,7 +7,7 @@ The 2030 Agenda for Sustainable Development, adopted by all United Nations Membe
 
 Agenda 2030 further, embodies the belief that development can be best pursued by addressing interrelated economic, social and environmental issues. The 2030 Agenda commits to **‘_leaving no one behind_'** and including the most vulnerable groups in a society. Therefore, the focus is placed on the disaggregation level of the indicators concerning vulnerable groups such as children, youth, people with disabilities, indigenous groups, refugees etc.
 
-#UN SDGs Indicators Framework
+# UN SDGs Indicators Framework
 
 An Inter-Agency Expert Group on SDGs Indicators (IEAG-SDGs) agreed upon the global indicator framework to monitor progress on the 17 Goals. The 244 indicators of the SDGs can be quantified as constituting of 50 indicators aimed at monitoring the “means of implementation” (speaking to policy implementation) and 194 “goal indicators” to quantify the progress made in the country. 
 The IAEG-SDGs further, classifies the indicators into three tiers by their level of methodological development and the availability of data at the global level as follows:
