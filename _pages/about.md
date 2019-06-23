@@ -10,8 +10,9 @@ Agenda 2030 further, embodies the belief that development can be best pursued by
 ## UN SDGs Indicators Framework
 
 An Inter-Agency Expert Group on SDGs Indicators (IEAG-SDGs) agreed upon the global indicator framework to monitor progress on the 17 Goals. The 244 indicators of the SDGs can be quantified as constituting of 50 indicators aimed at monitoring the “means of implementation” (speaking to policy implementation) and 194 “goal indicators” to quantify the progress made in the country. 
-The IAEG-SDGs further, classifies the indicators into three tiers by their level of methodological development and the availability of data at the global level as follows:
 
-- (i)	**Tier 1:** Indicator is conceptually clear, has an internationally established methodology and standards are available, and data are regularly produced by countries for at least 50 % of countries and of the population in every region where the indicator is relevant.
-- (ii)	**Tier 2:** Indicator is conceptually clear, has an internationally established methodology and standards are available, but data are not regularly produced by countries.
-- (iii)**Tier 3:** No internationally established methodology or standards are yet available for the indicator, but methodology/standards are being (or will be) developed or tested.
++ The IAEG-SDGs further, classifies the indicators into three tiers by their level of methodological development and the availability of data at the global level as follows:
+
+- **Tier 1:** Indicator is conceptually clear, has an internationally established methodology and standards are available, and data are regularly produced by countries for at least 50 % of countries and of the population in every region where the indicator is relevant.
+- **Tier 2:** Indicator is conceptually clear, has an internationally established methodology and standards are available, but data are not regularly produced by countries.
+- **Tier 3:** No internationally established methodology or standards are yet available for the indicator, but methodology/standards are being (or will be) developed or tested.
