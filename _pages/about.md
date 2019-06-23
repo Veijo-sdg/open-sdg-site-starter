@@ -13,9 +13,9 @@ An Inter-Agency Expert Group on SDGs Indicators (IEAG-SDGs) agreed upon the glob
 
 The IAEG-SDGs further, classifies the indicators into three tiers by their level of methodological development and the availability of data at the global level as follows:
 
-- &nbsp;&nbsp;&nbsp;**(i)  Tier 1:** Indicator is conceptually clear, has an internationally established methodology and standards are available, and data are regularly produced by countries for at least 50 % of countries and of the population in every region where the indicator is relevant.
-- &nbsp;&nbsp;&nbsp;**(ii)  Tier 2:** Indicator is conceptually clear, has an internationally established methodology and standards are available, but data are not regularly produced by countries.
-- &nbsp;&nbsp;&nbsp;**(iii) Tier 3:** No internationally established methodology or standards are yet available for the indicator, but methodology/standards are being (or will be) developed or tested.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-**Tier 1:** Indicator is conceptually clear, has an internationally established methodology and standards are available, and data are regularly produced by countries for at least 50 % of countries and of the population in every region where the indicator is relevant.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-**Tier 2:** Indicator is conceptually clear, has an internationally established methodology and standards are available, but data are not regularly produced by countries.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-**Tier 3:** No internationally established methodology or standards are yet available for the indicator, but methodology/standards are being (or will be) developed or tested.
 
 ## SDGs in Namibia 
 
